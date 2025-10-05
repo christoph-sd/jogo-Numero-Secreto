@@ -18,11 +18,14 @@ Durante o desenvolvimento, foi possível compreender de forma prática como o **
 3. O jogo informa se o número digitado é **maior, menor ou igual** ao número secreto.  
 4. Quando o jogador acerta, é exibida uma mensagem de sucesso e a opção de **reiniciar o jogo**.
 
+## Link para o Jogo
+O projeto está hospedado no Vercel e pode ser acessado através do link:  
+[Jogo do Número Secreto](https://jogo-numero-secreto-seven-blush.vercel.app)
+
 ## Estrutura do Projeto
 - `index.html` – Estrutura principal do jogo  
 - `style.css` – Estilos visuais e layout  
 - `app.js` – Lógica principal e funcionalidades do jogo  
 
 ## Observações
-Este projeto foi desenvolvido como exercício para **praticar conceitos fundamentais de JavaScript** e aprimorar habilidades em **interatividade e lógica**.  
-
+Este projeto foi desenvolvido como exercício para **praticar conceitos fundamentais de JavaScript** e aprimorar habilidades em **interatividade e lógica**.
